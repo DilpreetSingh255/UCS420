@@ -1,0 +1,5 @@
+name=input("Enter your full name: ")
+age=int(input("Enter your age : "))
+price=float(input("Enter the book cost: "))
+s="\nYour name is %s, age is %d and book price is %f" %(name.upper(),age,price)
+print (s)
