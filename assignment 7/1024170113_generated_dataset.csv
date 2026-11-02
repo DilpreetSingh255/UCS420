@@ -1,0 +1,16 @@
+Ticket_ID,Ticket_Text
+T01,Python was working yesterday before the assignment deadline. The same problem occurs again.
+T02,E-mail is not working before the assignment deadline. Can you check this?
+T03,The LMS failed to open. It works on another computer.
+T04,I couldn't connect to the Python after resetting my password. Please resolve it.
+T05,VPN keeps disconnecting since yesterday. Please resolve it.
+T06,The Matlab is showing an error. This is urgent.
+T07,The state-of-the-art lab (Lab-3) is closed.
+T08,The e-mail failed to open. Is there another solution?
+T09,I couldn't connect to the Matlab during the lab. I don't know what changed.
+T10,Server keeps disconnecting after resetting my password. Please help.
+T11,The file is 95.5% uploaded.
+T12,E-mail is running slowly before the assignment deadline. I have tried several times!
+T13,Email me at helpdesk@university.edu.
+T14,Nothing works and nobody has replied.
+T15,Student portal has stopped syncing on my laptop. It worked yesterday.
